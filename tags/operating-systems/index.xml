@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operating Systems | Yifei Liu</title>
+    <link>/tags/operating-systems/</link>
+      <atom:link href="/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Operating Systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <title>Operating Systems</title>
+      <link>/tags/operating-systems/</link>
+    </image>
+    
+    <item>
+      <title>MCFS (Model Checking File System)</title>
+      <link>/project/mcfs-proj/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mcfs-proj/</guid>
+      <description>&lt;p&gt;Developing and maintaining a file system is time-consuming and complex. Yet even mature
+file systems suffer repeated bugs. File system bugs have serious consequences
+such as data loss and system crashes. To address these challenges, we developed MCFS,
+a model-checking framework to detect file system bugs/defects and
+facilitate file system development. We used Spin model checker to perform
+state-space exploration that needs to save/restore file system state. Therefore, we
+developed two in-memory file systems, VeriFS1 and VeriFS2, with checkpoint/restore
+API to capture and restore the full file system state via ioctl. MCFS
+found real bugs while we were developing VeriFS.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;My role: I joined this project in Jun. 2020 and is now leading this project since Sep. 2021. My labmate previously led this project.&lt;/b&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Computing | Yifei Liu</title>
+    <link>/tags/service-computing/</link>
+      <atom:link href="/tags/service-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Service Computing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Wed, 20 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <title>Service Computing</title>
+      <link>/tags/service-computing/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Network Reasoning</title>
+      <link>/project/bayesiannetwork-proj/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
+      <guid>/project/bayesiannetwork-proj/</guid>
+      <description>&lt;p&gt;It is essential to recommend the atomic service and a set of services with correlations for meeting users&amp;rsquo; QoS requirements in the era of service-oriented computing. To effectively organize and recommend web services, we used three-stage Bayesian network structure learning to construct a directed acyclic graph (network) and parameter learning to learn the conditional probability of all the nodes in the network. Compared to other service recommendation methods, the Bayesian network is more suitable for correlated services. Extensive experiments were conducted to validate and illustrate the functionalities and advantages of our proposed method.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;My role: I worked on the experiments of Bayesian Network Reasoning for web service recommendation and had tested different sampling (e.g., Gibbs sampling, MCMC) and inference (e.g., variable elimination, junction tree) algorithms for Bayesian network together with various searching methods (e.g., greedy search, hill climbing, and K2 algorithm).&lt;/b&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
