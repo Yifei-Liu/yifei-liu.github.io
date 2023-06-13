@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Disk Failure Prediction | Yifei Liu</title>
-    <link>/tags/disk-failure-prediction/</link>
-      <atom:link href="/tags/disk-failure-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/disk-failure-prediction/</link>
+      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/tags/disk-failure-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Disk Failure Prediction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Sat, 20 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Disk Failure Prediction</title>
-      <link>/tags/disk-failure-prediction/</link>
+      <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/disk-failure-prediction/</link>
     </image>
     
     <item>
       <title>Disk Failure Prediction</title>
-      <link>/project/diskfailureprediction-proj/</link>
+      <link>http://www.fsl.cs.sunysb.edu/~yifei/project/diskfailureprediction-proj/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/project/diskfailureprediction-proj/</guid>
+      <guid>http://www.fsl.cs.sunysb.edu/~yifei/project/diskfailureprediction-proj/</guid>
       <description>&lt;p&gt;According to the observation from Microsoft Research (Vishwanath &amp;amp; Nagappan, 2010), disk failures accounted for a majority (78%) of replacements/faults in datacenters. In this project, we built an infrastructure to collect the long-term S.M.A.R.T. data of HDDs from over 10,000 servers in Tencent data centers and monitor disk health in real-time. The historical disk failures constituted positive samples for disk failure prediction. We applied several machine learning algorithms to train the prediction model. Our experiments indicated that our model achieved both high precision and high recall.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;My role: I participated in creating the data collection system in Tencent cloud and experimented with various machine learning algorithms for disk failure prediction.&lt;/b&gt;&lt;/p&gt;
 </description>

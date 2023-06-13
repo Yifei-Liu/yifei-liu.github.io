@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dark Data | Yifei Liu</title>
-    <link>/tags/dark-data/</link>
-      <atom:link href="/tags/dark-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/dark-data/</link>
+      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/tags/dark-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Dark Data</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Dark Data</title>
-      <link>/tags/dark-data/</link>
+      <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/dark-data/</link>
     </image>
     
     <item>
       <title>Image Dark Data Assessment</title>
-      <link>/project/darkdata-proj/</link>
+      <link>http://www.fsl.cs.sunysb.edu/~yifei/project/darkdata-proj/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/project/darkdata-proj/</guid>
+      <guid>http://www.fsl.cs.sunysb.edu/~yifei/project/darkdata-proj/</guid>
       <description>&lt;p&gt;Dark data are some existing data that the developers or users are unaware of their existence or value, or do not know how to extract value from them. To address the emerging dark data challenge, we proposed a framework for assessing the value of image dark data by using a novel semantic hash ranking (SHR) algorithm. This framework ranked the value of the image dark data, and therefore it helped discover &amp;ldquo;important images&amp;rdquo; in the massive image dataset. The evaluation results had demonstrated the performance and validity of our methodology.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;My role: I wrote part of the code to implement the SHR algorithm and evaluate SHR by comparing different relevant techniques. This project had a strong relationship with the SwiftGraph project I led.&lt;/b&gt;&lt;/p&gt;
 </description>

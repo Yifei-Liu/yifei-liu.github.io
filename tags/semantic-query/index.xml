@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semantic Query | Yifei Liu</title>
-    <link>/tags/semantic-query/</link>
-      <atom:link href="/tags/semantic-query/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/semantic-query/</link>
+      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/tags/semantic-query/index.xml" rel="self" type="application/rss+xml" />
     <description>Semantic Query</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Semantic Query</title>
-      <link>/tags/semantic-query/</link>
+      <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/semantic-query/</link>
     </image>
     
     <item>
       <title>SwiftGraph</title>
-      <link>/project/swiftgraph-proj/</link>
+      <link>http://www.fsl.cs.sunysb.edu/~yifei/project/swiftgraph-proj/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/swiftgraph-proj/</guid>
+      <guid>http://www.fsl.cs.sunysb.edu/~yifei/project/swiftgraph-proj/</guid>
       <description>&lt;p&gt;Existing storage systems apply simple metadata and hierarchical directory trees, which fail to meet the requirements of content-based queries (i.e., semantic queries) like finding semantically similar images with one specific image file. Therefore, we designed and implemented SwiftGraph, a system middleware that supported semantic metadata generated from deep learning hash. SwiftGraph applied an effective graph structure to organize the semantic hash code and provided fast content-based query interfaces. The performance evaluation on the different datasets demonstrated that the query precision and efficiency of SwiftGraph outran other searchable metadata paradigms.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I was the first leader of the SwiftGraph project and completed most of the work for the system. Finally, thanks to my collaborators and mentors, the extended version of SwiftGraph, CSS, was accepted to DAC&#39;20.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;My role: I was the first leader of the SwiftGraph project and completed most of the work for the system. Finally, thanks to my collaborators and mentors, the extended version of SwiftGraph, CSS, was accepted to DAC&amp;rsquo;20.&lt;/b&gt;&lt;/p&gt;
 </description>
     </item>
     

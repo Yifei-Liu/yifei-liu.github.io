@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zonglin Tian | Yifei Liu</title>
-    <link>/authors/zonglin-tian/</link>
-      <atom:link href="/authors/zonglin-tian/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.fsl.cs.sunysb.edu/~yifei/authors/zonglin-tian/</link>
+      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/authors/zonglin-tian/index.xml" rel="self" type="application/rss+xml" />
     <description>Zonglin Tian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Zonglin Tian</title>
-      <link>/authors/zonglin-tian/</link>
+      <link>http://www.fsl.cs.sunysb.edu/~yifei/authors/zonglin-tian/</link>
     </image>
     
     <item>
       <title>Research of Web Service Recommendation Using Bayesian Network Reasoning</title>
-      <link>/publication/bayesian-scc-2018/</link>
+      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/bayesian-scc-2018/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/bayesian-scc-2018/</guid>
+      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/bayesian-scc-2018/</guid>
       <description></description>
     </item>
     
