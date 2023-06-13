@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yifei Liu</title>
-    <link>http://www.fsl.cs.sunysb.edu/~yifei/authors/admin/</link>
-      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yifei Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright>
     <image>
-      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Yifei Liu</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/authors/admin/</link>
+      <link>/authors/admin/</link>
     </image>
     
   </channel>

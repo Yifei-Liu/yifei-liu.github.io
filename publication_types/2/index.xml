@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Yifei Liu</title>
-    <link>http://www.fsl.cs.sunysb.edu/~yifei/publication_types/2/</link>
-      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Sat, 29 Feb 2020 19:46:17 -0500</lastBuildDate>
     <image>
-      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
       <title>A Framework for Image Dark Data Assessment</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/darkdataassess-wwwj-2020/</link>
+      <link>/publication/darkdataassess-wwwj-2020/</link>
       <pubDate>Sat, 29 Feb 2020 19:46:17 -0500</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/darkdataassess-wwwj-2020/</guid>
+      <guid>/publication/darkdataassess-wwwj-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic-aware Data Quality Assessment for Image Big Data</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/dataquality-fgcs-2020/</link>
+      <link>/publication/dataquality-fgcs-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/dataquality-fgcs-2020/</guid>
+      <guid>/publication/dataquality-fgcs-2020/</guid>
       <description></description>
     </item>
     

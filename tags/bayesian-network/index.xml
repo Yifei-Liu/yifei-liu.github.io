@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayesian Network | Yifei Liu</title>
-    <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/bayesian-network/</link>
-      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/tags/bayesian-network/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/bayesian-network/</link>
+      <atom:link href="/tags/bayesian-network/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian Network</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Wed, 20 May 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Bayesian Network</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/bayesian-network/</link>
+      <link>/tags/bayesian-network/</link>
     </image>
     
     <item>
       <title>Bayesian Network Reasoning</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/project/bayesiannetwork-proj/</link>
+      <link>/project/bayesiannetwork-proj/</link>
       <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/project/bayesiannetwork-proj/</guid>
+      <guid>/project/bayesiannetwork-proj/</guid>
       <description>&lt;p&gt;It is essential to recommend the atomic service and a set of services with correlations for meeting users&amp;rsquo; QoS requirements in the era of service-oriented computing. To effectively organize and recommend web services, we used three-stage Bayesian network structure learning to construct a directed acyclic graph (network) and parameter learning to learn the conditional probability of all the nodes in the network. Compared to other service recommendation methods, the Bayesian network is more suitable for correlated services. Extensive experiments were conducted to validate and illustrate the functionalities and advantages of our proposed method.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;My role: I worked on the experiments of Bayesian Network Reasoning for web service recommendation and had tested different sampling (e.g., Gibbs sampling, MCMC) and inference (e.g., variable elimination, junction tree) algorithms for Bayesian network together with various searching methods (e.g., greedy search, hill climbing, and K2 algorithm).&lt;/b&gt;&lt;/p&gt;
 </description>

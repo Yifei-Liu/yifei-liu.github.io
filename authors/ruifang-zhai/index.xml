@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruifang Zhai | Yifei Liu</title>
-    <link>http://www.fsl.cs.sunysb.edu/~yifei/authors/ruifang-zhai/</link>
-      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/authors/ruifang-zhai/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/ruifang-zhai/</link>
+      <atom:link href="/authors/ruifang-zhai/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruifang Zhai</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Fri, 17 Jul 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Ruifang Zhai</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/authors/ruifang-zhai/</link>
+      <link>/authors/ruifang-zhai/</link>
     </image>
     
     <item>
       <title>A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/automeasure-agrogeoinfo-2015/</link>
+      <link>/publication/automeasure-agrogeoinfo-2015/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/automeasure-agrogeoinfo-2015/</guid>
+      <guid>/publication/automeasure-agrogeoinfo-2015/</guid>
       <description></description>
     </item>
     

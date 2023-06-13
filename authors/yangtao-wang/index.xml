@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yangtao Wang | Yifei Liu</title>
-    <link>http://www.fsl.cs.sunysb.edu/~yifei/authors/yangtao-wang/</link>
-      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/authors/yangtao-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/yangtao-wang/</link>
+      <atom:link href="/authors/yangtao-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yangtao Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Tue, 21 Jul 2020 23:59:59 -0500</lastBuildDate>
     <image>
-      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Yangtao Wang</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/authors/yangtao-wang/</link>
+      <link>/authors/yangtao-wang/</link>
     </image>
     
     <item>
       <title>Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/css-dac-2020/</link>
+      <link>/publication/css-dac-2020/</link>
       <pubDate>Tue, 21 Jul 2020 23:59:59 -0500</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/css-dac-2020/</guid>
+      <guid>/publication/css-dac-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Framework for Image Dark Data Assessment</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/darkdataassess-wwwj-2020/</link>
+      <link>/publication/darkdataassess-wwwj-2020/</link>
       <pubDate>Sat, 29 Feb 2020 19:46:17 -0500</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/darkdataassess-wwwj-2020/</guid>
+      <guid>/publication/darkdataassess-wwwj-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic-aware Data Quality Assessment for Image Big Data</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/dataquality-fgcs-2020/</link>
+      <link>/publication/dataquality-fgcs-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/dataquality-fgcs-2020/</guid>
+      <guid>/publication/dataquality-fgcs-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Framework for Image Dark Data Assessment</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/darkdata-apweb-2019/</link>
+      <link>/publication/darkdata-apweb-2019/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/darkdata-apweb-2019/</guid>
+      <guid>/publication/darkdata-apweb-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis and Management to Hash-Based Graph and Rank</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/hashgraph-apweb-2019/</link>
+      <link>/publication/hashgraph-apweb-2019/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/hashgraph-apweb-2019/</guid>
+      <guid>/publication/hashgraph-apweb-2019/</guid>
       <description></description>
     </item>
     

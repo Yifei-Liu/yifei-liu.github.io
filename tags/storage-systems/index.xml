@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storage Systems | Yifei Liu</title>
-    <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/storage-systems/</link>
-      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/tags/storage-systems/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/storage-systems/</link>
+      <atom:link href="/tags/storage-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Storage Systems</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Storage Systems</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/storage-systems/</link>
+      <link>/tags/storage-systems/</link>
     </image>
     
     <item>
       <title>Multi-tier Caching</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/project/mtcache-proj/</link>
+      <link>/project/mtcache-proj/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/project/mtcache-proj/</guid>
+      <guid>/project/mtcache-proj/</guid>
       <description>&lt;p&gt;Relying on modern storage devices, multi-tier caching has been broadly employed in cloud storage and data centers. Combining different devices, write policies, and cache replacement policies causes vast space of multi-tier caching configurations. Particularly, users hope to gain better performance with lower purchase costs for the devices. Still, the enormous configurable space makes finding the optimal configuration impractical by evaluating all the possible configurations. Therefore, we managed to apply point selection to detect valuable &amp;ldquo;key points&amp;rdquo; in the Miss ratio curves (MRCs). After experimenting with several existing point selection methods, we proposed our novel point selection technique that outperforms the existing methods and can efficiently and accurately identify the best multi-tier caching configuration regarding cost vs. performance efficiently and accurately.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;My role: I joined this project in Jan. 2020 and am still part of this project currently. My labmate leads this project.&lt;/b&gt;&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>SwiftGraph</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/project/swiftgraph-proj/</link>
+      <link>/project/swiftgraph-proj/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/project/swiftgraph-proj/</guid>
+      <guid>/project/swiftgraph-proj/</guid>
       <description>&lt;p&gt;Existing storage systems apply simple metadata and hierarchical directory trees, which fail to meet the requirements of content-based queries (i.e., semantic queries) like finding semantically similar images with one specific image file. Therefore, we designed and implemented SwiftGraph, a system middleware that supported semantic metadata generated from deep learning hash. SwiftGraph applied an effective graph structure to organize the semantic hash code and provided fast content-based query interfaces. The performance evaluation on the different datasets demonstrated that the query precision and efficiency of SwiftGraph outran other searchable metadata paradigms.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;My role: I was the first leader of the SwiftGraph project and completed most of the work for the system. Finally, thanks to my collaborators and mentors, the extended version of SwiftGraph, CSS, was accepted to DAC&amp;rsquo;20.&lt;/b&gt;&lt;/p&gt;
 </description>

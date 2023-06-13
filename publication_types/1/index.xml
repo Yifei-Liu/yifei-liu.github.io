@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Yifei Liu</title>
-    <link>http://www.fsl.cs.sunysb.edu/~yifei/publication_types/1/</link>
-      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Tue, 20 Jul 2021 23:59:59 -0500</lastBuildDate>
     <image>
-      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication_types/1/</link>
+      <link>/publication_types/1/</link>
     </image>
     
     <item>
       <title>Model-Checking Support for File System Development</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/mcfs-hotstorage-2021/</link>
+      <link>/publication/mcfs-hotstorage-2021/</link>
       <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/mcfs-hotstorage-2021/</guid>
+      <guid>/publication/mcfs-hotstorage-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/css-dac-2020/</link>
+      <link>/publication/css-dac-2020/</link>
       <pubDate>Tue, 21 Jul 2020 23:59:59 -0500</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/css-dac-2020/</guid>
+      <guid>/publication/css-dac-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Framework for Image Dark Data Assessment</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/darkdata-apweb-2019/</link>
+      <link>/publication/darkdata-apweb-2019/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/darkdata-apweb-2019/</guid>
+      <guid>/publication/darkdata-apweb-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis and Management to Hash-Based Graph and Rank</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/hashgraph-apweb-2019/</link>
+      <link>/publication/hashgraph-apweb-2019/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/hashgraph-apweb-2019/</guid>
+      <guid>/publication/hashgraph-apweb-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research of Web Service Recommendation Using Bayesian Network Reasoning</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/bayesian-scc-2018/</link>
+      <link>/publication/bayesian-scc-2018/</link>
       <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/bayesian-scc-2018/</guid>
+      <guid>/publication/bayesian-scc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A new line detection algorithm - Automatic measurement of character parameter of rapeseed plant by LSD</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/publication/automeasure-agrogeoinfo-2015/</link>
+      <link>/publication/automeasure-agrogeoinfo-2015/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/publication/automeasure-agrogeoinfo-2015/</guid>
+      <guid>/publication/automeasure-agrogeoinfo-2015/</guid>
       <description></description>
     </item>
     

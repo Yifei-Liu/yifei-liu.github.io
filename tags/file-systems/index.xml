@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>File Systems | Yifei Liu</title>
-    <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/file-systems/</link>
-      <atom:link href="http://www.fsl.cs.sunysb.edu/~yifei/tags/file-systems/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/file-systems/</link>
+      <atom:link href="/tags/file-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>File Systems</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.fsl.cs.sunysb.edu/~yifei/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>File Systems</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/tags/file-systems/</link>
+      <link>/tags/file-systems/</link>
     </image>
     
     <item>
       <title>MCFS (Model Checking File System)</title>
-      <link>http://www.fsl.cs.sunysb.edu/~yifei/project/mcfs-proj/</link>
+      <link>/project/mcfs-proj/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.fsl.cs.sunysb.edu/~yifei/project/mcfs-proj/</guid>
+      <guid>/project/mcfs-proj/</guid>
       <description>&lt;p&gt;Developing and maintaining a file system is time-consuming and complex. Yet even mature
 file systems suffer repeated bugs. File system bugs have serious consequences
 such as data loss and system crashes. To address these challenges, we developed MCFS,
