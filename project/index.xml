@@ -36,7 +36,7 @@ found real bugs while we were developing VeriFS.&lt;/p&gt;
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/mtcache-proj/</guid>
       <description>&lt;p&gt;Relying on modern storage devices, multi-tier caching has been broadly employed in cloud storage and data centers. Combining different devices, write policies, and cache replacement policies causes vast space of multi-tier caching configurations. Particularly, users hope to gain better performance with lower purchase costs for the devices. Still, the enormous configurable space makes finding the optimal configuration impractical by evaluating all the possible configurations. Therefore, we managed to apply point selection to detect valuable &amp;ldquo;key points&amp;rdquo; in the Miss ratio curves (MRCs). After experimenting with several existing point selection methods, we proposed our novel point selection technique that outperforms the existing methods and can efficiently and accurately identify the best multi-tier caching configuration regarding cost vs. performance efficiently and accurately.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I joined this project in Jan. 2020 and am still part of this project currently. My labmate leads this project.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I joined this project in Jan. 2020 and am still part of this project currently. My labmate leads this project.&lt;/b&gt; --&gt;
 </description>
     </item>
     
@@ -66,27 +66,7 @@ found real bugs while we were developing VeriFS.&lt;/p&gt;
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
       <guid>/project/diskfailureprediction-proj/</guid>
       <description>&lt;p&gt;According to the observation from Microsoft Research (Vishwanath &amp;amp; Nagappan, 2010), disk failures accounted for a majority (78%) of replacements/faults in datacenters. In this project, we built an infrastructure to collect the long-term S.M.A.R.T. data of HDDs from over 10,000 servers in Tencent data centers and monitor disk health in real-time. The historical disk failures constituted positive samples for disk failure prediction. We applied several machine learning algorithms to train the prediction model. Our experiments indicated that our model achieved both high precision and high recall.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I participated in creating the data collection system in Tencent cloud and experimented with various machine learning algorithms for disk failure prediction.&lt;/b&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Network Reasoning</title>
-      <link>/project/bayesiannetwork-proj/</link>
-      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
-      <guid>/project/bayesiannetwork-proj/</guid>
-      <description>&lt;p&gt;In the domain of service-oriented computing, it is crucial to suggest not only individual atomic services but also a suite of interrelated services that align with users&amp;rsquo; Quality of Service (QoS) expectations. To optimize the organization and recommendation of web services, our approach employs a three-tiered Bayesian network structure learning process. This process is designed to formulate a directed acyclic graph (network) and then engages in parameter learning to deduce the conditional probabilities across all network nodes. Our utilization of the Bayesian network, known for its adept handling of service correlations, represents a more appropriate choice for recommending interconnected services when compared to alternative methods. We conducted thorough experiments to validate our proposed method, demonstrating its capabilities and benefits.&lt;/p&gt;
-&lt;!-- &lt;b&gt;My role: I worked on the experiments of Bayesian Network Reasoning for web service recommendation and had tested different sampling (e.g., Gibbs sampling, MCMC) and inference (e.g., variable elimination, junction tree) algorithms for Bayesian network together with various searching methods (e.g., greedy search, hill climbing, and K2 algorithm).&lt;/b&gt; --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Line Segment Detection for Rapeseed Plant Images</title>
-      <link>/project/automeasure-proj/</link>
-      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/project/automeasure-proj/</guid>
-      <description>&lt;p&gt;Characteristics such as plant height and branch length are critical for crop production and mechanization of harvesting processes. To facilitate automatic measurement of these parameters in rapeseed plants, we developed a method that employs image processing to detect line segments within photographs of plants. Our approach incorporates the Line Segment Detector algorithm (Von Gioi et al., 2008) — a method recognized for its speed, precision, and leading-edge performance in line detection. To refine the output and remove extraneous and broken line segments, we implemented a series of filtering strategies that leverage the geometric properties of the detected lines. Experimental results reveal an impressively low error margin of 1.25% while utilizing modest computational resources, thereby aligning closely with the practical requirements of agricultural applications.&lt;/p&gt;
-&lt;!-- &lt;b&gt;My role: I designed and implemented all the algorithms and experiments for this project.&lt;/b&gt; --&gt;
+&lt;!-- &lt;b&gt;My role: I participated in creating the data collection system in Tencent cloud and experimented with various machine learning algorithms for disk failure prediction.&lt;/b&gt; --&gt;
 </description>
     </item>
     

@@ -108,37 +108,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Bayesian Network</title>
-      <link>/tags/bayesian-network/</link>
-      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/bayesian-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Service Computing</title>
-      <link>/tags/service-computing/</link>
-      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/service-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Processing</title>
-      <link>/tags/image-processing/</link>
-      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/image-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Line Detection</title>
-      <link>/tags/line-detection/</link>
-      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/tags/line-detection/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

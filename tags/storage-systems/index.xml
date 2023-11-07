@@ -18,7 +18,7 @@
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/mtcache-proj/</guid>
       <description>&lt;p&gt;Relying on modern storage devices, multi-tier caching has been broadly employed in cloud storage and data centers. Combining different devices, write policies, and cache replacement policies causes vast space of multi-tier caching configurations. Particularly, users hope to gain better performance with lower purchase costs for the devices. Still, the enormous configurable space makes finding the optimal configuration impractical by evaluating all the possible configurations. Therefore, we managed to apply point selection to detect valuable &amp;ldquo;key points&amp;rdquo; in the Miss ratio curves (MRCs). After experimenting with several existing point selection methods, we proposed our novel point selection technique that outperforms the existing methods and can efficiently and accurately identify the best multi-tier caching configuration regarding cost vs. performance efficiently and accurately.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I joined this project in Jan. 2020 and am still part of this project currently. My labmate leads this project.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I joined this project in Jan. 2020 and am still part of this project currently. My labmate leads this project.&lt;/b&gt; --&gt;
 </description>
     </item>
     

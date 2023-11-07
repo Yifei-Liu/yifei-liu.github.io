@@ -18,7 +18,7 @@
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
       <guid>/project/diskfailureprediction-proj/</guid>
       <description>&lt;p&gt;According to the observation from Microsoft Research (Vishwanath &amp;amp; Nagappan, 2010), disk failures accounted for a majority (78%) of replacements/faults in datacenters. In this project, we built an infrastructure to collect the long-term S.M.A.R.T. data of HDDs from over 10,000 servers in Tencent data centers and monitor disk health in real-time. The historical disk failures constituted positive samples for disk failure prediction. We applied several machine learning algorithms to train the prediction model. Our experiments indicated that our model achieved both high precision and high recall.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I participated in creating the data collection system in Tencent cloud and experimented with various machine learning algorithms for disk failure prediction.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I participated in creating the data collection system in Tencent cloud and experimented with various machine learning algorithms for disk failure prediction.&lt;/b&gt; --&gt;
 </description>
     </item>
     
