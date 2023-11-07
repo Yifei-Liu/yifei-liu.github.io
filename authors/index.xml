@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Tue, 20 Jul 2021 23:59:59 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Sun, 09 Jul 2023 23:59:59 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,16 +15,40 @@
     <item>
       <title>Erez Zadok</title>
       <link>/authors/erez-zadok/</link>
-      <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
+      <pubDate>Sun, 09 Jul 2023 23:59:59 -0500</pubDate>
       <guid>/authors/erez-zadok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gautam Ahuja</title>
+      <link>/authors/gautam-ahuja/</link>
+      <pubDate>Sun, 09 Jul 2023 23:59:59 -0500</pubDate>
+      <guid>/authors/gautam-ahuja/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geoff Kuenning</title>
       <link>/authors/geoff-kuenning/</link>
-      <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
+      <pubDate>Sun, 09 Jul 2023 23:59:59 -0500</pubDate>
       <guid>/authors/geoff-kuenning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Smolka</title>
+      <link>/authors/scott-smolka/</link>
+      <pubDate>Sun, 09 Jul 2023 23:59:59 -0500</pubDate>
+      <guid>/authors/scott-smolka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yifei Liu</title>
+      <link>/authors/yifei-liu/</link>
+      <pubDate>Sun, 09 Jul 2023 23:59:59 -0500</pubDate>
+      <guid>/authors/yifei-liu/</guid>
       <description></description>
     </item>
     
@@ -45,26 +69,10 @@
     </item>
     
     <item>
-      <title>Scott Smolka</title>
-      <link>/authors/scott-smolka/</link>
-      <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
-      <guid>/authors/scott-smolka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wei Su</title>
       <link>/authors/wei-su/</link>
       <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
       <guid>/authors/wei-su/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yifei Liu</title>
-      <link>/authors/yifei-liu/</link>
-      <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
-      <guid>/authors/yifei-liu/</guid>
       <description></description>
     </item>
     
