@@ -5,12 +5,76 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 Created by Yifei Liu</copyright><lastBuildDate>Mon, 16 Oct 2023 23:59:59 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 Created by Yifei Liu</copyright><lastBuildDate>Tue, 27 Feb 2024 23:59:59 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Erez Zadok</title>
+      <link>/authors/erez-zadok/</link>
+      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/authors/erez-zadok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoff Kuenning</title>
+      <link>/authors/geoff-kuenning/</link>
+      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/authors/geoff-kuenning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerard Holzmann</title>
+      <link>/authors/gerard-holzmann/</link>
+      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/authors/gerard-holzmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manish Adkar</title>
+      <link>/authors/manish-adkar/</link>
+      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/authors/manish-adkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pei Liu</title>
+      <link>/authors/pei-liu/</link>
+      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/authors/pei-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Smolka</title>
+      <link>/authors/scott-smolka/</link>
+      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/authors/scott-smolka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Su</title>
+      <link>/authors/wei-su/</link>
+      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/authors/wei-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yifei Liu</title>
+      <link>/authors/yifei-liu/</link>
+      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/authors/yifei-liu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anshul Gandhi</title>
@@ -33,22 +97,6 @@
       <link>/authors/carl-waldspurger/</link>
       <pubDate>Mon, 16 Oct 2023 23:59:59 -0500</pubDate>
       <guid>/authors/carl-waldspurger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Erez Zadok</title>
-      <link>/authors/erez-zadok/</link>
-      <pubDate>Mon, 16 Oct 2023 23:59:59 -0500</pubDate>
-      <guid>/authors/erez-zadok/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geoff Kuenning</title>
-      <link>/authors/geoff-kuenning/</link>
-      <pubDate>Mon, 16 Oct 2023 23:59:59 -0500</pubDate>
-      <guid>/authors/geoff-kuenning/</guid>
       <description></description>
     </item>
     
@@ -77,14 +125,6 @@
     </item>
     
     <item>
-      <title>Yifei Liu</title>
-      <link>/authors/yifei-liu/</link>
-      <pubDate>Mon, 16 Oct 2023 23:59:59 -0500</pubDate>
-      <guid>/authors/yifei-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gautam Ahuja</title>
       <link>/authors/gautam-ahuja/</link>
       <pubDate>Sun, 09 Jul 2023 23:59:59 -0500</pubDate>
@@ -93,34 +133,10 @@
     </item>
     
     <item>
-      <title>Scott Smolka</title>
-      <link>/authors/scott-smolka/</link>
-      <pubDate>Sun, 09 Jul 2023 23:59:59 -0500</pubDate>
-      <guid>/authors/scott-smolka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gerard Holzmann</title>
-      <link>/authors/gerard-holzmann/</link>
-      <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
-      <guid>/authors/gerard-holzmann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gomathi Ganesan</title>
       <link>/authors/gomathi-ganesan/</link>
       <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
       <guid>/authors/gomathi-ganesan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wei Su</title>
-      <link>/authors/wei-su/</link>
-      <pubDate>Tue, 20 Jul 2021 23:59:59 -0500</pubDate>
-      <guid>/authors/wei-su/</guid>
       <description></description>
     </item>
     
