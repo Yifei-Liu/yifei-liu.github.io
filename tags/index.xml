@@ -5,12 +5,140 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 Created by Yifei Liu</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>File Systems</title>
+      <link>/tags/file-systems/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/file-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Checking</title>
+      <link>/tags/model-checking/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/model-checking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating Systems</title>
+      <link>/tags/operating-systems/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/operating-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache Systems</title>
+      <link>/tags/cache-systems/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/cache-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage Systems</title>
+      <link>/tags/storage-systems/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/storage-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Hash</title>
+      <link>/tags/deep-learning-hash/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/deep-learning-hash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Query</title>
+      <link>/tags/semantic-query/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/semantic-query/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Data</title>
+      <link>/tags/dark-data/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/dark-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranking</title>
+      <link>/tags/ranking/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Hash</title>
+      <link>/tags/semantic-hash/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/semantic-hash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disk Failure Prediction</title>
+      <link>/tags/disk-failure-prediction/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/disk-failure-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Network</title>
+      <link>/tags/bayesian-network/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/bayesian-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Computing</title>
+      <link>/tags/service-computing/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/service-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>/tags/image-processing/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line Detection</title>
+      <link>/tags/line-detection/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/line-detection/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Yifei Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Tue, 20 Jul 2021 23:59:59 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 Created by Yifei Liu</copyright><lastBuildDate>Mon, 16 Oct 2023 23:59:59 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Yifei Liu</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Guiding Simulations of Multi-Tier Storage Caches Using Knee Detection</title>
+      <link>/publication/mtcache-mascots-2023/</link>
+      <pubDate>Mon, 16 Oct 2023 23:59:59 -0500</pubDate>
+      <guid>/publication/mtcache-mascots-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input and Output Coverage Needed in File System Testing</title>
+      <link>/publication/iocov-hotstorage-2023/</link>
+      <pubDate>Sun, 09 Jul 2023 23:59:59 -0500</pubDate>
+      <guid>/publication/iocov-hotstorage-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Model-Checking Support for File System Development</title>
@@ -42,7 +58,7 @@ state-space exploration that needs to save/restore file system state. Therefore,
 developed two in-memory file systems, VeriFS1 and VeriFS2, with checkpoint/restore
 API to capture and restore the full file system state via ioctl. MCFS
 found real bugs while we were developing VeriFS.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I joined this project in Jun. 2020 and is now leading this project since Sep. 2021. My labmate previously led this project.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I joined this project in Jun. 2020 and is now leading this project since Sep. 2021. My labmate previously led this project.&lt;/b&gt; --&gt;
 </description>
     </item>
     
@@ -60,7 +76,7 @@ found real bugs while we were developing VeriFS.&lt;/p&gt;
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/mtcache-proj/</guid>
       <description>&lt;p&gt;Relying on modern storage devices, multi-tier caching has been broadly employed in cloud storage and data centers. Combining different devices, write policies, and cache replacement policies causes vast space of multi-tier caching configurations. Particularly, users hope to gain better performance with lower purchase costs for the devices. Still, the enormous configurable space makes finding the optimal configuration impractical by evaluating all the possible configurations. Therefore, we managed to apply point selection to detect valuable &amp;ldquo;key points&amp;rdquo; in the Miss ratio curves (MRCs). After experimenting with several existing point selection methods, we proposed our novel point selection technique that outperforms the existing methods and can efficiently and accurately identify the best multi-tier caching configuration regarding cost vs. performance efficiently and accurately.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I joined this project in Jan. 2020 and am still part of this project currently. My labmate leads this project.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I joined this project in Jan. 2020 and am still part of this project currently. My labmate leads this project.&lt;/b&gt; --&gt;
 </description>
     </item>
     
@@ -78,7 +94,7 @@ found real bugs while we were developing VeriFS.&lt;/p&gt;
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/project/swiftgraph-proj/</guid>
       <description>&lt;p&gt;Existing storage systems apply simple metadata and hierarchical directory trees, which fail to meet the requirements of content-based queries (i.e., semantic queries) like finding semantically similar images with one specific image file. Therefore, we designed and implemented SwiftGraph, a system middleware that supported semantic metadata generated from deep learning hash. SwiftGraph applied an effective graph structure to organize the semantic hash code and provided fast content-based query interfaces. The performance evaluation on the different datasets demonstrated that the query precision and efficiency of SwiftGraph outran other searchable metadata paradigms.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I was the first leader of the SwiftGraph project and completed most of the work for the system. Finally, thanks to my collaborators and mentors, the extended version of SwiftGraph, CSS, was accepted to DAC&#39;20.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I was the first leader of the SwiftGraph project and completed most of the work for the system. Finally, thanks to my collaborators and mentors, the extended version of SwiftGraph, CSS, was accepted to DAC&#39;20.&lt;/b&gt; --&gt;
 </description>
     </item>
     
@@ -112,7 +128,7 @@ found real bugs while we were developing VeriFS.&lt;/p&gt;
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/project/darkdata-proj/</guid>
       <description>&lt;p&gt;Dark data are some existing data that the developers or users are unaware of their existence or value, or do not know how to extract value from them. To address the emerging dark data challenge, we proposed a framework for assessing the value of image dark data by using a novel semantic hash ranking (SHR) algorithm. This framework ranked the value of the image dark data, and therefore it helped discover &amp;ldquo;important images&amp;rdquo; in the massive image dataset. The evaluation results had demonstrated the performance and validity of our methodology.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I wrote part of the code to implement the SHR algorithm and evaluate SHR by comparing different relevant techniques. This project had a strong relationship with the SwiftGraph project I led.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I wrote part of the code to implement the SHR algorithm and evaluate SHR by comparing different relevant techniques. This project had a strong relationship with the SwiftGraph project I led.&lt;/b&gt; --&gt;
 </description>
     </item>
     
@@ -122,7 +138,7 @@ found real bugs while we were developing VeriFS.&lt;/p&gt;
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
       <guid>/project/diskfailureprediction-proj/</guid>
       <description>&lt;p&gt;According to the observation from Microsoft Research (Vishwanath &amp;amp; Nagappan, 2010), disk failures accounted for a majority (78%) of replacements/faults in datacenters. In this project, we built an infrastructure to collect the long-term S.M.A.R.T. data of HDDs from over 10,000 servers in Tencent data centers and monitor disk health in real-time. The historical disk failures constituted positive samples for disk failure prediction. We applied several machine learning algorithms to train the prediction model. Our experiments indicated that our model achieved both high precision and high recall.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I participated in creating the data collection system in Tencent cloud and experimented with various machine learning algorithms for disk failure prediction.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I participated in creating the data collection system in Tencent cloud and experimented with various machine learning algorithms for disk failure prediction.&lt;/b&gt; --&gt;
 </description>
     </item>
     
@@ -139,8 +155,8 @@ found real bugs while we were developing VeriFS.&lt;/p&gt;
       <link>/project/bayesiannetwork-proj/</link>
       <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
       <guid>/project/bayesiannetwork-proj/</guid>
-      <description>&lt;p&gt;It is essential to recommend the atomic service and a set of services with correlations for meeting users&amp;rsquo; QoS requirements in the era of service-oriented computing. To effectively organize and recommend web services, we used three-stage Bayesian network structure learning to construct a directed acyclic graph (network) and parameter learning to learn the conditional probability of all the nodes in the network. Compared to other service recommendation methods, the Bayesian network is more suitable for correlated services. Extensive experiments were conducted to validate and illustrate the functionalities and advantages of our proposed method.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I worked on the experiments of Bayesian Network Reasoning for web service recommendation and had tested different sampling (e.g., Gibbs sampling, MCMC) and inference (e.g., variable elimination, junction tree) algorithms for Bayesian network together with various searching methods (e.g., greedy search, hill climbing, and K2 algorithm).&lt;/b&gt;&lt;/p&gt;
+      <description>&lt;p&gt;In the domain of service-oriented computing, it is crucial to suggest not only individual atomic services but also a suite of interrelated services that align with users&amp;rsquo; Quality of Service (QoS) expectations. To optimize the organization and recommendation of web services, our approach employs a three-tiered Bayesian network structure learning process. This process is designed to formulate a directed acyclic graph (network) and then engages in parameter learning to deduce the conditional probabilities across all network nodes. Our utilization of the Bayesian network, known for its adept handling of service correlations, represents a more appropriate choice for recommending interconnected services when compared to alternative methods. We conducted thorough experiments to validate our proposed method, demonstrating its capabilities and benefits.&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I worked on the experiments of Bayesian Network Reasoning for web service recommendation and had tested different sampling (e.g., Gibbs sampling, MCMC) and inference (e.g., variable elimination, junction tree) algorithms for Bayesian network together with various searching methods (e.g., greedy search, hill climbing, and K2 algorithm).&lt;/b&gt; --&gt;
 </description>
     </item>
     
@@ -149,8 +165,8 @@ found real bugs while we were developing VeriFS.&lt;/p&gt;
       <link>/project/automeasure-proj/</link>
       <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
       <guid>/project/automeasure-proj/</guid>
-      <description>&lt;p&gt;Character parameters of crops like plant height and branch length are important to production and mechanized harvest. We proposed a methodology that detects line segments in the plant images to measure rapeseed plants&amp;rsquo; character parameters automatically. Our image line detection utilized the Line Segment Detector (Von Gioi et al., 2008), a fast, accurate, and state-of-the-art line detection algorithm. For eliminating the noisy and discontinuous line segments, we applied several techniques based on the geometric features of extracted lines. The experiment shows that the error rate of the results is as low as 1.25% with inexpensive computing resources, which can meet the actual demands of agriculture better.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I designed and implemented all the algorithms and experiments for this project.&lt;/b&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Characteristics such as plant height and branch length are critical for crop production and mechanization of harvesting processes. To facilitate automatic measurement of these parameters in rapeseed plants, we developed a method that employs image processing to detect line segments within photographs of plants. Our approach incorporates the Line Segment Detector algorithm (Von Gioi et al., 2008) — a method recognized for its speed, precision, and leading-edge performance in line detection. To refine the output and remove extraneous and broken line segments, we implemented a series of filtering strategies that leverage the geometric properties of the detected lines. Experimental results reveal an impressively low error margin of 1.25% while utilizing modest computational resources, thereby aligning closely with the practical requirements of agricultural applications.&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I designed and implemented all the algorithms and experiments for this project.&lt;/b&gt; --&gt;
 </description>
     </item>
     

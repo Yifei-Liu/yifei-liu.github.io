@@ -5,9 +5,9 @@
     <link>/tags/operating-systems/</link>
       <atom:link href="/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Operating Systems</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 Created by Yifei Liu</copyright><lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Operating Systems</title>
       <link>/tags/operating-systems/</link>
     </image>
@@ -26,7 +26,7 @@ state-space exploration that needs to save/restore file system state. Therefore,
 developed two in-memory file systems, VeriFS1 and VeriFS2, with checkpoint/restore
 API to capture and restore the full file system state via ioctl. MCFS
 found real bugs while we were developing VeriFS.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I joined this project in Jun. 2020 and is now leading this project since Sep. 2021. My labmate previously led this project.&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I joined this project in Jun. 2020 and is now leading this project since Sep. 2021. My labmate previously led this project.&lt;/b&gt; --&gt;
 </description>
     </item>
     

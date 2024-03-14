@@ -5,9 +5,9 @@
     <link>/tags/image-processing/</link>
       <atom:link href="/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2023 Created by Yifei Liu</copyright><lastBuildDate>Mon, 20 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 Created by Yifei Liu</copyright><lastBuildDate>Mon, 20 Apr 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Image Processing</title>
       <link>/tags/image-processing/</link>
     </image>
@@ -17,8 +17,8 @@
       <link>/project/automeasure-proj/</link>
       <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
       <guid>/project/automeasure-proj/</guid>
-      <description>&lt;p&gt;Character parameters of crops like plant height and branch length are important to production and mechanized harvest. We proposed a methodology that detects line segments in the plant images to measure rapeseed plants&amp;rsquo; character parameters automatically. Our image line detection utilized the Line Segment Detector (Von Gioi et al., 2008), a fast, accurate, and state-of-the-art line detection algorithm. For eliminating the noisy and discontinuous line segments, we applied several techniques based on the geometric features of extracted lines. The experiment shows that the error rate of the results is as low as 1.25% with inexpensive computing resources, which can meet the actual demands of agriculture better.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;My role: I designed and implemented all the algorithms and experiments for this project.&lt;/b&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Characteristics such as plant height and branch length are critical for crop production and mechanization of harvesting processes. To facilitate automatic measurement of these parameters in rapeseed plants, we developed a method that employs image processing to detect line segments within photographs of plants. Our approach incorporates the Line Segment Detector algorithm (Von Gioi et al., 2008) — a method recognized for its speed, precision, and leading-edge performance in line detection. To refine the output and remove extraneous and broken line segments, we implemented a series of filtering strategies that leverage the geometric properties of the detected lines. Experimental results reveal an impressively low error margin of 1.25% while utilizing modest computational resources, thereby aligning closely with the practical requirements of agricultural applications.&lt;/p&gt;
+&lt;!-- &lt;b&gt;My role: I designed and implemented all the algorithms and experiments for this project.&lt;/b&gt; --&gt;
 </description>
     </item>
     
