@@ -3,22 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2024-02-27T23:59:59-05:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mtcache-perfeval-2024/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anshul-gandhi/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2024-02-27T23:59:59-05:00</lastmod>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/avani-wildani/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carl-waldspurger/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/erez-zadok/</loc>
-    <lastmod>2024-02-27T23:59:59-05:00</lastmod>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/geoff-kuenning/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mario-antunes/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pranav-bhandari/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tyler-estro/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yifei-liu/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2024-02-29T23:59:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
     <lastmod>2024-02-27T23:59:59-05:00</lastmod>
   </url>
   
@@ -43,16 +103,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-02-27T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2024-02-27T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/scott-smolka/</loc>
     <lastmod>2024-02-27T23:59:59-05:00</lastmod>
   </url>
@@ -63,47 +113,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2024-02-27T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yifei-liu/</loc>
-    <lastmod>2024-02-27T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/anshul-gandhi/</loc>
-    <lastmod>2023-10-16T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/avani-wildani/</loc>
-    <lastmod>2023-10-16T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/carl-waldspurger/</loc>
-    <lastmod>2023-10-16T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/mtcache-mascots-2023/</loc>
-    <lastmod>2023-10-16T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mario-antunes/</loc>
-    <lastmod>2023-10-16T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pranav-bhandari/</loc>
-    <lastmod>2023-10-16T23:59:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tyler-estro/</loc>
     <lastmod>2023-10-16T23:59:59-05:00</lastmod>
   </url>
   
@@ -185,11 +195,6 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-02-29T19:46:17-05:00</lastmod>
   </url>
   
   <url>

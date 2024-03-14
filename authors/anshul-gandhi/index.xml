@@ -5,12 +5,20 @@
     <link>/authors/anshul-gandhi/</link>
       <atom:link href="/authors/anshul-gandhi/index.xml" rel="self" type="application/rss+xml" />
     <description>Anshul Gandhi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 Created by Yifei Liu</copyright><lastBuildDate>Mon, 16 Oct 2023 23:59:59 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2024 Created by Yifei Liu</copyright><lastBuildDate>Thu, 29 Feb 2024 23:59:59 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Anshul Gandhi</title>
       <link>/authors/anshul-gandhi/</link>
     </image>
+    
+    <item>
+      <title>Accelerating Multi-Tier Storage Cache Simulations Using Knee Detection</title>
+      <link>/publication/mtcache-perfeval-2024/</link>
+      <pubDate>Thu, 29 Feb 2024 23:59:59 -0500</pubDate>
+      <guid>/publication/mtcache-perfeval-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Guiding Simulations of Multi-Tier Storage Caches Using Knee Detection</title>
