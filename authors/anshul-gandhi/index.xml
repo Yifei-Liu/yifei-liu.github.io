@@ -5,12 +5,20 @@
     <link>/authors/anshul-gandhi/</link>
       <atom:link href="/authors/anshul-gandhi/index.xml" rel="self" type="application/rss+xml" />
     <description>Anshul Gandhi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 Created by Yifei Liu</copyright><lastBuildDate>Thu, 29 Feb 2024 23:59:59 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 Created by Yifei Liu</copyright><lastBuildDate>Wed, 14 May 2025 23:59:59 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Anshul Gandhi</title>
       <link>/authors/anshul-gandhi/</link>
     </image>
+    
+    <item>
+      <title>Kneeliverse: A universal knee-detection library for performance curves</title>
+      <link>/publication/kneeliverse-softwarex-2025/</link>
+      <pubDate>Wed, 14 May 2025 23:59:59 -0500</pubDate>
+      <guid>/publication/kneeliverse-softwarex-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accelerating Multi-Tier Storage Cache Simulations Using Knee Detection</title>
