@@ -5,12 +5,52 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 Created by Yifei Liu</copyright><lastBuildDate>Wed, 14 May 2025 23:59:59 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2025 Created by Yifei Liu</copyright><lastBuildDate>Mon, 08 Sep 2025 23:59:59 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hudf018ff48b348cd4b6bccc683f271f37_64216_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Erez Zadok</title>
+      <link>/authors/erez-zadok/</link>
+      <pubDate>Mon, 08 Sep 2025 23:59:59 -0500</pubDate>
+      <guid>/authors/erez-zadok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoff Kuenning</title>
+      <link>/authors/geoff-kuenning/</link>
+      <pubDate>Mon, 08 Sep 2025 23:59:59 -0500</pubDate>
+      <guid>/authors/geoff-kuenning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Md. Kamal Parvez</title>
+      <link>/authors/md.-kamal-parvez/</link>
+      <pubDate>Mon, 08 Sep 2025 23:59:59 -0500</pubDate>
+      <guid>/authors/md.-kamal-parvez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Smolka</title>
+      <link>/authors/scott-smolka/</link>
+      <pubDate>Mon, 08 Sep 2025 23:59:59 -0500</pubDate>
+      <guid>/authors/scott-smolka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yifei Liu</title>
+      <link>/authors/yifei-liu/</link>
+      <pubDate>Mon, 08 Sep 2025 23:59:59 -0500</pubDate>
+      <guid>/authors/yifei-liu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anshul Gandhi</title>
@@ -33,22 +73,6 @@
       <link>/authors/carl-waldspurger/</link>
       <pubDate>Wed, 14 May 2025 23:59:59 -0500</pubDate>
       <guid>/authors/carl-waldspurger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Erez Zadok</title>
-      <link>/authors/erez-zadok/</link>
-      <pubDate>Wed, 14 May 2025 23:59:59 -0500</pubDate>
-      <guid>/authors/erez-zadok/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geoff Kuenning</title>
-      <link>/authors/geoff-kuenning/</link>
-      <pubDate>Wed, 14 May 2025 23:59:59 -0500</pubDate>
-      <guid>/authors/geoff-kuenning/</guid>
       <description></description>
     </item>
     
@@ -77,14 +101,6 @@
     </item>
     
     <item>
-      <title>Yifei Liu</title>
-      <link>/authors/yifei-liu/</link>
-      <pubDate>Wed, 14 May 2025 23:59:59 -0500</pubDate>
-      <guid>/authors/yifei-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gerard Holzmann</title>
       <link>/authors/gerard-holzmann/</link>
       <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
@@ -105,14 +121,6 @@
       <link>/authors/pei-liu/</link>
       <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
       <guid>/authors/pei-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scott Smolka</title>
-      <link>/authors/scott-smolka/</link>
-      <pubDate>Tue, 27 Feb 2024 23:59:59 -0500</pubDate>
-      <guid>/authors/scott-smolka/</guid>
       <description></description>
     </item>
     
@@ -297,26 +305,26 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am Yifei Liu, a final-year Ph.D. candidate in 
+      <description>&lt;p&gt;I am Yifei Liu, a Software Engineer at 
+&lt;a href=&#34;https://cloud.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Cloud&lt;/a&gt;
+ in the Greater Seattle area, working on building efficient, reliable, and scalable cloud infrastructure for AI/ML and beyond.&lt;/p&gt;
+&lt;p&gt;I earned my Ph.D. in 
 &lt;a href=&#34;https://www.cs.stonybrook.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Science&lt;/a&gt;
- at 
+ from 
 &lt;a href=&#34;https://www.stonybrook.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stony Brook University&lt;/a&gt;
-. I am part of the 
-&lt;a href=&#34;http://www.fsl.cs.stonybrook.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;File systems and Storage Lab (FSL)&lt;/a&gt;
+.
+As part of the 
+&lt;a href=&#34;http://www.fsl.cs.stonybrook.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;File Systems and Storage Lab (FSL)&lt;/a&gt;
 , advised by 
 &lt;a href=&#34;https://www3.cs.stonybrook.edu/~ezk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Erez Zadok&lt;/a&gt;
-. I also collaborate closely with 
+ and collaborating with 
 &lt;a href=&#34;https://www.cs.hmc.edu/~geoff/geoff.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Geoff Kuenning&lt;/a&gt;
  and 
 &lt;a href=&#34;https://www3.cs.stonybrook.edu/~sas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Scott A. Smolka&lt;/a&gt;
-. I am broadly interested in file/storage systems and operating systems. My recent work seeks to test kernel file systems more readily and thoroughly by model checking and other related techniques.&lt;/p&gt;
-&lt;p&gt;Before Stony Brook, I was a Master&amp;rsquo;s student and research assistant at the 
-&lt;a href=&#34;http://english.wnlo.hust.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wuhan National Laboratory for Optoelectronics&lt;/a&gt;
-, advised by 
-&lt;a href=&#34;http://faculty.hust.edu.cn/zhouke2/en/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Ke Zhou&lt;/a&gt;
-, at 
-&lt;a href=&#34;http://english.hust.edu.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Huazhong University of Science and Technology&lt;/a&gt;
-. There, I focused on the integration of content-based semantic queries in storage systems.&lt;/p&gt;
+, I worked on advancing file and storage systems, focusing on model checking and automated testing of kernel file systems.&lt;/p&gt;
+&lt;p&gt;My work produced tools and frameworks that enhance the correctness, reliability, and functionality of modern storage systems. My Ph.D. dissertation titled &amp;ldquo;Advancing File System Model Checking: Coverage, Framework, and Scalability&amp;rdquo; is available 
+&lt;a href=&#34;files/yifei-liu-phd-dissertation.pdf&#34;&gt;here&lt;/a&gt;
+.&lt;/p&gt;
 </description>
     </item>
     
