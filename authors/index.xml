@@ -313,15 +313,15 @@
  from 
 &lt;a href=&#34;https://www.stonybrook.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stony Brook University&lt;/a&gt;
 .
-As part of the 
+I conducted my research at the 
 &lt;a href=&#34;http://www.fsl.cs.stonybrook.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;File Systems and Storage Lab (FSL)&lt;/a&gt;
-, advised by 
+, under the guidance of 
 &lt;a href=&#34;https://www3.cs.stonybrook.edu/~ezk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Erez Zadok&lt;/a&gt;
- and collaborating with 
+ and in collaboration with 
 &lt;a href=&#34;https://www.cs.hmc.edu/~geoff/geoff.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Geoff Kuenning&lt;/a&gt;
- and 
+, 
 &lt;a href=&#34;https://www3.cs.stonybrook.edu/~sas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Scott A. Smolka&lt;/a&gt;
-, I worked on advancing file and storage systems, focusing on model checking and automated testing of kernel file systems.&lt;/p&gt;
+, and many others. I focused on enhancing storage reliability and correctness through model checking and automated testing of kernel file systems.&lt;/p&gt;
 &lt;p&gt;My work produced tools and frameworks that enhance the correctness, reliability, and functionality of modern storage systems. My Ph.D. dissertation titled &amp;ldquo;Advancing File System Model Checking: Coverage, Framework, and Scalability&amp;rdquo; is available 
 &lt;a href=&#34;files/yifei-liu-phd-dissertation.pdf&#34;&gt;here&lt;/a&gt;
 .&lt;/p&gt;
